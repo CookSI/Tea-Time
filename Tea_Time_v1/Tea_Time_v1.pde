@@ -1,3 +1,7 @@
+//Code Sources: 
+//https://www.youtube.com/watch?v=Kr4s5sLoROY&ab_channel=TheCodingTrain
+//https://maker.pro/arduino/tutorial/how-to-make-arduino-and-processing-ide-communicate#:~:text=Processing%20is%20a%20great%20source,works%20for%20a%20micro%2Dcontroller.&text=It%20has%20setup%20functions%20and,Arduino%20IDE%20through%20serial%20communication.
+
 import org.openkinect.freenect.*;
 import org.openkinect.processing.*;
 import processing.serial.*;
